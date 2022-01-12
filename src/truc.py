@@ -1,4 +1,4 @@
-"""[summary]
+"""[test for pascal]
 """
 
 MSG = "truc"
