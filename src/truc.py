@@ -4,5 +4,8 @@
 MSG = "truc"
 print(MSG)
 
-MSG = "autre truc"
+MSG = 2
 print(MSG)
+
+def add( a, b) :
+    return a+b
